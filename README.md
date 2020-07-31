@@ -1,59 +1,35 @@
 # Bootstrap-cap916
 cap 916 
 
- ![Bootatrp](https://img.shields.io/badge/framework-Bootstrap-orange.svg)![JavaScrypt](https://img.shields.io/badge/language-javascrypt-blue.svg)
+ ![Bootatrp](https://img.shields.io/badge/framework-Bootstrap-orange.svg) ![JavaScrypt](https://img.shields.io/badge/language-javascrypt-blue.svg)
 
 ## Table of Content
-  * [Downloads](#downloads)
   * [Working Derictories](#working-derictories)
   * [Run](#run)
   * [Team](#team)
   * [Built](#built-with)
   * [License](#license)
   
-
-## Downloads 
-__(Step 1)__
-
-click to [download xampp](https://www.apachefriends.org/xampp-files/7.3.20/xampp-windows-x64-7.3.20-0-VC15-installer.exe)
-
-__(Step 2)__
-
-click to [download vscode](
-https://code.visualstudio.com/download#)
-
-
-## Working Derictories
-
-__(Step 3)__
-
-open the file location of xampp > htdocs  > create new file with project name
-
-```
-
-├── xampp
-│    └── htdocs
-│            └── new file
-```
-
-__(Step 4)__
-
-inside __new file__ > go to path > type __cmd__
-
-```bash
- START visual studio code
-```
-
 ## Run
 
-open __xampp controler__
+click to [download Bootstrap](
+https://github.com/twbs/bootstrap/releases/download/v4.3.1/bootstrap-4.3.1-dist.zip)
+ 
+ or
+ 
+ ```bash
+ npm install bootstrap
+```
 
-__satrt apache ! start MySQL__
+or
 
-![image](https://user-images.githubusercontent.com/62024355/89049472-f516d900-d36e-11ea-866e-9475a58fb785.png)
+```
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-
-go to the __http://localhost/project_path/project_name.php/__
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+```
 
              
 
