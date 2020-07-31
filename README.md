@@ -4,10 +4,8 @@ cap 916
  ![Bootatrp](https://img.shields.io/badge/framework-Bootstrap-orange.svg) ![JavaScrypt](https://img.shields.io/badge/language-javascrypt-blue.svg)
 
 ## Table of Content
-  * [Working Derictories](#working-derictories)
   * [Run](#run)
   * [Team](#team)
-  * [Built](#built-with)
   * [License](#license)
   
 ## Run
@@ -22,6 +20,8 @@ https://github.com/twbs/bootstrap/releases/download/v4.3.1/bootstrap-4.3.1-dist.
 ```
 
 or
+
+__CDN__
 
 ```
  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -41,13 +41,6 @@ or
 
 __Credit/ Special thanks to: Ritika Mahajan mam (LPU)__
 
-## Built With
-![1_Y1hq9sHXG26Fyhys81z8rg](https://user-images.githubusercontent.com/62024355/89046686-f514da00-d36a-11ea-9fac-c09c4b33668c.png)
-![XAMPP-banner](https://user-images.githubusercontent.com/62024355/89047546-2e017e80-d36c-11ea-85c4-711697e4558d.jpg)
-
-
-* PHP (Language)
-* xampp (Server)
 
 
 ## License
