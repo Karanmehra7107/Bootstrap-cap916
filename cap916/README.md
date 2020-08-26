@@ -1,9 +1,5 @@
 
 
-
-
-
-
 ## Team
 [![Karan Mehra](https://avatars0.githubusercontent.com/u/62024355?s=460&u=f88fbe1d64c444b6d1923b411cf7251482304a4e&v=4) |
 -|
