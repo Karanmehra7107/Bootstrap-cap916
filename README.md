@@ -35,9 +35,9 @@ __CDN__
 
 
 ## Team
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fs4h7fZ/Pics-Art-05-30-07-58-11.jpg" alt="PicsArt_05-30-07.58.11" border="0">
-
-[Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html)
+![Karan Mehra](https://avatars0.githubusercontent.com/u/62024355?s=200&u=f88fbe1d64c444b6d1923b411cf7251482304a4e&v=4) |
+-|
+[Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html) |)
 
 __Credit/ Special thanks to: Ritika Mahajan mam (LPU)__
 
